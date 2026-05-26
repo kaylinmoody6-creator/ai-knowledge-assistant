@@ -69,7 +69,7 @@ Engineers and researchers often need to query large technical documents — API 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/ai-knowledge-assistant.git
+git clone https://github.com/kaylinmoody6-creator/ai-knowledge-assistant.git
 cd ai-knowledge-assistant
 ```
 
