@@ -1,4 +1,4 @@
-# 📚 AI Knowledge Assistant
+# 📚 Retrieval-Augmented Generation (RAG) for Technical Documents
 
 > Upload technical documents (PDF or TXT), ask questions, and get **grounded answers** sourced directly from your files — no hallucinations, no outside knowledge.
 
